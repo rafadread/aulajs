@@ -1,5 +1,5 @@
 let idade = prompt("Digite sua idade");
-let maioridade = 18;
+let maioridade = 21;
 
 if (idade >= maioridade) {
     alert("Toma uma cerveja ae");
