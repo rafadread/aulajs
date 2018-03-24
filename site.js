@@ -6,3 +6,4 @@ if (idade >= maioridade) {
 } else {
     alert("Volta pro jardim de infância");
 }
+
