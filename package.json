@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oi.js",
+  "scripts": {
+    "start": "parcel index.html"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafadread/aulajs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafadread/aulajs/issues"
+  },
+  "homepage": "https://github.com/rafadread/aulajs#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.7.0"
+  }
+}
